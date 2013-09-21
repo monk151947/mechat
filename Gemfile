@@ -23,6 +23,9 @@ end
 
 gem 'jquery-rails'
 gem 'private_pub'
+gem 'heroku'
+gem 'foreman'
+
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
